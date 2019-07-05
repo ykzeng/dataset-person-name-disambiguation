@@ -1,0 +1,7 @@
+# ignore data files
+*.csv
+*.nt
+# ignore python temp
+*.pyc
+# ignore vscode
+.vscode
